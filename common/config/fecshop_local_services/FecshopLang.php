@@ -38,7 +38,7 @@ return [
             ],
         ],
         // 默认语言。
-        'defaultLangCode' => 'en',
+        'defaultLangCode' => 'zh',
 
     ],
 ];
